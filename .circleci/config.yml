@@ -22,7 +22,7 @@ jobs:
             chmod a+x ~/bin/repo
             mkdir android
             cd android
-            git config --global user.name "Jony"
+            git config --global user.name "Mehul"
             git config --global user.email "jonyg1355@gmail.com"
             repo init -u https://android.googlesource.com/mirror/manifest
             repo sync -qc
